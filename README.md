@@ -11,6 +11,19 @@
 * Display beads usage
 * Export pattern as .pdf
 
+### Environment needs
+nodejs
+yarn
+
+
+
+### Clone this project
+```
+git clone https://github.com/maxcleme/beadifier.git
+cd beadifier
+yarn install
+```
+
 ### Build
 Project can be built using the following command :
 ```
